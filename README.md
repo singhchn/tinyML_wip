@@ -26,3 +26,7 @@
 - 
 
 
+Download below books :
+- TinyML Cookbook
+- TinyML hands on approach
+- TinyML Machine Learning
