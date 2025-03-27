@@ -19,6 +19,10 @@
 - https://github.com/BaptisteZloch/MakeIT-How-to-deploy-SK-learn-model-on-ESP8266
 - https://github.com/HODUCVU/Smat-Home-Using-RTOS-and-TinyML
 - https://github.com/Seeed-Studio/ModelAssistant
+- https://github.com/Benja1972/TinyML_arduino
+- https://github.com/tinyMLx/courseware/tree/master/edX
+- https://github.com/gigwegbe/tinyml-papers-and-projects
+- https://github.com/itemis/tflite-esp-template
 - 
 
 
